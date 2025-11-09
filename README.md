@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Quantum Traffic Flow Optimization
 
 A smart traffic control system simulation with quantum optimization algorithms, built with React and TypeScript.
